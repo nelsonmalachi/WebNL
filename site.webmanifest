@@ -1,0 +1,19 @@
+{
+  "name": "Nelson Lankanesan - Cloud Engineer",
+  "short_name": "Lankanesan",
+  "description": "Cloud Engineer mit Fokus auf Infrastructure as Code, Automation und Azure.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0f16",
+  "theme_color": "#0b0f16",
+  "lang": "de-CH",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

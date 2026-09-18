@@ -1,0 +1,16 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Editoren
+.vscode/
+.idea/
+*.swp
+
+# Abhaengigkeiten und Build-Artefakte (aktuell nicht verwendet)
+node_modules/
+dist/
+.cache/
+
+# Logs
+*.log
